@@ -1,0 +1,21 @@
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  line-height: 1.5;
+}
+
+.App {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.carousel {
+  background-color: #f8f8f8;
+  border: 1px dashed #ccc;
+}
+
+footer {
+  margin-top: auto;
+}
